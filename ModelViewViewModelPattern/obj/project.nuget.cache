@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Np7jbWQGUgg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Шура\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Шура\\.nuget\\packages\\wpfmath\\2.1.0\\wpfmath.2.1.0.nupkg.sha512",
+    "C:\\Users\\Шура\\.nuget\\packages\\xamlmath.shared\\2.1.0\\xamlmath.shared.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

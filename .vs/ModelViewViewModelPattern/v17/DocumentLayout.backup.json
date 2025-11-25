@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\viewmodel\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\viewmodel\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\models\\linearfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\models\\linearfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|c:\\users\\\u0448\u0443\u0440\u0430\\desktop\\modelviewviewmodelpattern\\modelviewviewmodelpattern\\modelviewviewmodelpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD74AEA3-92CB-4056-8880-2AF3B708F83A}|ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj|solutionrelative:modelviewviewmodelpattern\\modelviewviewmodelpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 576,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:08:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ViewModel\\ApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\ViewModel\\ApplicationViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ViewModel\\ApplicationViewModel.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\ViewModel\\ApplicationViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:45:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\App.xaml",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\App.xaml",
+              "RelativeToolTip": "ModelViewViewModelPattern\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T17:13:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinearFunction.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Models\\LinearFunction.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\Models\\LinearFunction.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Models\\LinearFunction.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\Models\\LinearFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:01:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\AssemblyInfo.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:13:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\App.xaml.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:13:34.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ModelViewViewModelPattern\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T16:58:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelViewViewModelPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj",
+              "RelativeToolTip": "ModelViewViewModelPattern\\ModelViewViewModelPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T17:03:59.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ModelViewViewModelPattern\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0443\u0440\u0430\\Desktop\\ModelViewViewModelPattern\\ModelViewViewModelPattern\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ModelViewViewModelPattern\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:58:25.483Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 543,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 543,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
