@@ -23,15 +23,11 @@ namespace ModelViewViewModelPattern.ViewModel
 
         public bool CanExecute(object? parametr) 
         {
-            if (parametr != null) 
-            {
-                return this.canExecute == null || this.canExecute(parametr);
-            }
-            throw new ArgumentException();
+            return this.canExecute == null || this.canExecute(parametr);
         }
         public void Execute(object? parametr) 
         {
-            if (this.execute != null && parametr != null)
+            if (this.execute != null)
                 this.execute(parametr);
         }
     }

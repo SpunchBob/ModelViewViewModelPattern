@@ -169,6 +169,8 @@
 
                     <TextBox
                         Grid.Row="1"
+                        Text="{Binding x_1, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=False}"
+                        PreviewTextInput="TextBox_PreviewTextInput"
                         x:Name="x1_tb"
                         Width="380"
                         Height="24"
@@ -188,6 +190,8 @@
 
                     <TextBox
                         Grid.Row="2"
+                        Text="{Binding y_1, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=False}"
+                        PreviewTextInput="TextBox_PreviewTextInput"
                         x:Name="y1_tb"
                         Width="380"
                         Height="24"
@@ -207,6 +211,8 @@
 
                     <TextBox
                         Grid.Row="3"
+                        Text="{Binding x_2, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=False}"
+                        PreviewTextInput="TextBox_PreviewTextInput"
                         x:Name="x2_tb"
                         Width="380"
                         Height="24"
@@ -226,6 +232,8 @@
 
                     <TextBox
                         Grid.Row="4"
+                        Text="{Binding y_2, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=False}"
+                        PreviewTextInput="TextBox_PreviewTextInput"
                         x:Name="y2_tb"
                         Width="380"
                         Height="24"
@@ -236,6 +244,7 @@
                     />
 
                     <Button
+                        Command="{Binding CalculateCommand}"
                         Grid.Row="5"
                         Width="148"
                         Height="24"
@@ -262,10 +271,10 @@
                     BorderBrush="Black"
                     BorderThickness="1"
                     CornerRadius="4"
-                    Width="180"
+                    Width="450"
                     Height="100"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Top">
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="10,0,0,0">
 
                 <Grid x:Name="Formula">
 
@@ -285,83 +294,17 @@
                             BorderBrush="Black"
                             BorderThickness="1"
                             CornerRadius="4"
-                            Width="160"
+                            Width="410"
                             Height="60"
                             VerticalAlignment="Top"
                             HorizontalAlignment="Center">
 
                         <math:FormulaControl x:Name="main_formula"
+                                             Formula="{Binding FormulaText}"
                             VerticalAlignment="Center"
                             HorizontalAlignment="Center"/>
 
                     </Border>
-
-                </Grid>
-
-            </Border>
-
-            <Border Grid.Column="1"
-                    Background="WhiteSmoke"
-                    BorderBrush="Black"
-                    BorderThickness="1"
-                    CornerRadius="4"
-                    Width="260"
-                    Height="100"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Top">
-
-                <Grid x:Name="Information">
-
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="32"/>
-                        <RowDefinition Height="32"/>
-                        <RowDefinition Height="32"/>
-                    </Grid.RowDefinitions>
-
-                    <Label Grid.Row="0"
-                           Content="Информация"
-                           FontSize="16"
-                           HorizontalAlignment="Center"
-                           VerticalAlignment="Center"/>
-
-                    <Grid Grid.Row="1">
-
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="80"/>
-                            <ColumnDefinition/>
-                        </Grid.ColumnDefinitions>
-
-                        <CheckBox x:Name="parallel_cb"
-                                  Grid.Column="0"
-                                  HorizontalAlignment="Left"
-                                  VerticalAlignment="Center"
-                                  Margin="10, 0, 0, 0"
-                                  IsEnabled="False">
-                            <CheckBox.Content>
-                                <math:FormulaControl Grid.Column="0"
-                                             Margin="0, 0, 0, 0"
-                                             VerticalAlignment="Center"
-                                             Formula="A || B"/>
-                            </CheckBox.Content>
-                        </CheckBox>
-
-                        <math:FormulaControl Grid.Column="1"
-                                             Formula="\angle{\alpha} = " 
-                                             Margin="9,6,115,6"/>
-
-                        <TextBox
-                            Grid.Column="1"
-                            x:Name="degree_tb"
-                            Width="100"
-                            Height="24"
-                            HorizontalAlignment="Right"
-                            VerticalAlignment="Top"
-                            VerticalContentAlignment="Center" 
-                            Margin="0,2,10,0"
-                            IsEnabled="False"
-                        />
-
-                    </Grid>
 
                 </Grid>
 

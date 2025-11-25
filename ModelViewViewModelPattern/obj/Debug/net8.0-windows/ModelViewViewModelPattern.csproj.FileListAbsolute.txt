@@ -46,3 +46,4 @@ C:\Users\Шура\Desktop\ModelViewViewModelPattern\ModelViewViewModelPattern\ob
 C:\Users\Шура\Desktop\ModelViewViewModelPattern\ModelViewViewModelPattern\obj\Debug\net8.0-windows\ModelViewViewModelPattern.pdb
 C:\Users\Шура\Desktop\ModelViewViewModelPattern\ModelViewViewModelPattern\obj\Debug\net8.0-windows\ModelViewViewModelPattern.genruntimeconfig.cache
 C:\Users\Шура\Desktop\ModelViewViewModelPattern\ModelViewViewModelPattern\obj\Debug\net8.0-windows\ref\ModelViewViewModelPattern.dll
+C:\Users\User\Desktop\C#\ModelViewViewModelPattern\ModelViewViewModelPattern\obj\Debug\net8.0-windows\ModelViewViewModelPattern.sourcelink.json

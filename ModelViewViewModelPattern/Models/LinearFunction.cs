@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Configuration;
 using System.Runtime.CompilerServices;
+using System.Security.Policy;
 using WpfMath;
 
 namespace ModelViewViewModelPattern.Models
@@ -13,6 +14,7 @@ namespace ModelViewViewModelPattern.Models
         private double y2 { get; set; }
         private double k_cof { get; set; }
         private double b_cof { get; set; }
+        public string FormualText => GetFormulaText();
 
         public LinearFunction() { }
         public LinearFunction(double _x1, double _y1, double _x2, double _y2)
@@ -60,17 +62,12 @@ namespace ModelViewViewModelPattern.Models
             return "";
         }
         
-        public WpfMath.Controls.FormulaControl GetFunction()
+        public string GetFormulaText()
         {
-            WpfMath.Controls.FormulaControl formula = new WpfMath.Controls.FormulaControl();
-
             String string_formula;
-
             string_formula = "y = " + KcofFormater() + " " + BcofFormater();
 
-            formula.Formula = string_formula;
-
-            return formula;
+            return string_formula;
         }
         public static bool IsLinearsParallel(LinearFunction l1, LinearFunction l2)
         {
